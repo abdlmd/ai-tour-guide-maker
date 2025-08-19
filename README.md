@@ -20,7 +20,7 @@ This project scrapes **Wikipedia city pages** using **BeautifulSoup**, extracts 
 
 ```bash
 # Clone and enter the project
-git clone https://github.com/your-username/wikipedia-travel-guide.git
+git clone https://github.com/abdlmd/wikipedia-travel-guide.git
 cd wikipedia-travel-guide
 
 # Create and activate a virtual environment
